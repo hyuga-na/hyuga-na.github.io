@@ -1,5 +1,7 @@
 # 中畔彪雅（Hyuga Nakaguro）
 
+<img src="{{ 'image.png' | relative_url }}" alt="Nakaguro's Avatar" style="width: 150px; border-radius: 50%; border: 2px solid #eee;">
+
 ## Education
 
 - 2016.04 -- 2019.03
