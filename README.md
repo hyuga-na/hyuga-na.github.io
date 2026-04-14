@@ -30,6 +30,9 @@
 - 中畔彪雅, 河野誠也, Canasai Kruengkrai, Angel Garcia Contreras, 千葉祐弥, 杉山弘晃, 吉野幸一郎. "パラ言語情報を考慮可能な Speech-to-Text 対話システムの検討." 人工知能学会 言語・音声理解と対話処理研究会 (第102回SLUD), 2024.
 - 中畔彪雅, 河野誠也, 吉野幸一郎. "連続表現を用いた Speech-to-Text 対話モデルの構築." 第38回人工知能学会全国大会 (JSAI2024), 2024.
 
+## Deliverables
+[ ロジックチェッカー ](https://hyuga-na.github.io/FlowChecker/)
+
 ## Contact
 
 - E-mail: nakaguro.hyuga.nl1@is.naist.jp
