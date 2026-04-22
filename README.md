@@ -36,6 +36,15 @@
 
 ## Deliverables
 [ ロジックチェッカー ](https://hyuga-na.github.io/FlowChecker/)
+[ Research flow map ](https://github.com/hyuga-na/hyuga-na.github.io/releases/download/v0.0.2/research-flow-map.vsix)
+  1. 上URLからvsixファイルをダウンロード
+  2. VS Codeを開く
+  3. Ctrl + Shift + X
+  4. `...` → `Install from VSIX...`
+  5. ダウンロードした `research-flow-map` を選択
+  6. ウィンドウをリロード
+  7. Ctrl + Shift + P
+  8. `Research Flow Map: Open Graph`を実行
 
 ## Contact
 
