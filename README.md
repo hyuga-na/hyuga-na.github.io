@@ -35,8 +35,8 @@
 - 中畔彪雅, 河野誠也, 吉野幸一郎. "連続表現を用いた Speech-to-Text 対話モデルの構築." 第38回人工知能学会全国大会 (JSAI2024), 2024.
 
 ## Deliverables
-[ ロジックチェッカー ](https://hyuga-na.github.io/FlowChecker/)
-[ Research flow map ](https://github.com/hyuga-na/hyuga-na.github.io/releases/download/v0.0.2/research-flow-map.vsix)
+- [ ロジックチェッカー ](https://hyuga-na.github.io/FlowChecker/)
+- [ Research flow map ](https://github.com/hyuga-na/hyuga-na.github.io/releases/download/v0.0.2/research-flow-map.vsix)
   1. 上URLからvsixファイルをダウンロード
   2. VS Codeを開く
   3. Ctrl + Shift + X
